@@ -50,19 +50,4 @@ main {
     font-size: 14px;
 }
 
-@media (max-width: 768px) {
-    #product-container {
-        padding: 10px;
-    }
 
-    .product-item {
-        width: 45%;  /* 在小屏幕上让商品项占据容器的45% */
-    }
-}
-
-/* 针对更小屏幕（最大宽度 480px）进一步调整 */
-@media (max-width: 480px) {
-    .product-item {
-        width: 100%;  /* 在极小的屏幕上让商品项占据整个屏幕 */
-    }
-}
