@@ -4,9 +4,11 @@ document.addEventListener("DOMContentLoaded", function() {
 
     // 示例商品数据
     const products = [
-        { name: "推荐1", image: "tuijian.png", description: "这是商品1的描述。" },
-        { name: "推荐2", image: "product2.jpg", description: "这是商品2的描述。" },
-        { name: "推荐3", image: "product3.jpg", description: "这是商品3的描述。" },
+        { name: "推荐1", image: "2.12_1.jpg", description: "" },
+        { name: "推荐2", image: "2.12_2.png", description: "" },
+        { name: "推荐3", image: "2.12_3.jpg", description: "" },
+        { name: "推荐4", image: "2.12_4.png", description: "" },
+        { name: "推荐5", image: "2.12_5.png", description: "" },
         // 添加更多商品数据
     ];
 

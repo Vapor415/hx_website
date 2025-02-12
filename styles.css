@@ -31,7 +31,7 @@ main {
     margin: 10px;
     padding: 10px;
     text-align: center;
-    width: 1000px;
+    width: 2000px;
 }
 
 .product-item img {
@@ -49,5 +49,3 @@ main {
     color: #555;
     font-size: 14px;
 }
-
-
