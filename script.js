@@ -9,6 +9,7 @@ document.addEventListener("DOMContentLoaded", function() {
         { name: "推荐3", image: "2.12_3.jpg", description: "" },
         { name: "推荐4", image: "2.12_4.png", description: "" },
         { name: "推荐5", image: "2.12_5.png", description: "" },
+        { name: "推荐6", image: "2.12_6.jpg", description: "" },
         // 添加更多商品数据
     ];
 
