@@ -4,8 +4,8 @@ document.addEventListener("DOMContentLoaded", function() {
 
     // 示例商品数据
     const products = [
-        { name: "推荐1", image: "tj1.jpg", description: "" },
-        { name: "推荐2", image: "tj2.png", description: "" },
+        { name: "推荐1", image: "tj1.png", description: "" },
+        { name: "推荐2", image: "tj2.jpg", description: "" },
         { name: "推荐3", image: "tj3.jpg", description: "" },
         { name: "推荐4", image: "tj4.png", description: "" },
         { name: "推荐5", image: "tj5.png", description: "" },
